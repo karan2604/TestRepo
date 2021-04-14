@@ -12,10 +12,14 @@ package hack;
 public class HandleAPI {
     int j;
     public HandleAPI(){
-        int i;
+        int i,k;
         System.out.println("Habla");
-        for(i=0;i<5;i++){
-            System.out.println(i+" ");
+        for(k=0;k<5;k++){
+            System.out.println(k+" ");
         }
+        
+         System.out.println("Habla");
+          System.out.println("Habla");
+           System.out.println("Habla");
     }
 }
