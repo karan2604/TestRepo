@@ -17,8 +17,8 @@ public class Hack {
     public static void main(String[] args) {
         HandleAPI obj = new HandleAPI();
         obj.j = 32;
-        
-        
+        obj.showmsg();
+        //YOOOOOOOOO
         //New files addded
     }
     
