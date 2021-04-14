@@ -15,7 +15,9 @@ public class Hack {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        HandleAPI obj = new HandleAPI();
+        obj.j = 32;
+        System.out.println(obj.j);
     }
     
 }

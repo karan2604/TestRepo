@@ -10,5 +10,12 @@ package hack;
  * @author Rajat
  */
 public class HandleAPI {
-    
+    int j;
+    public HandleAPI(){
+        int i;
+        System.out.println("Habla");
+        for(i=0;i<5;i++){
+            System.out.println(i+" ");
+        }
+    }
 }
