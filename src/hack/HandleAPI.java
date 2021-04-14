@@ -16,13 +16,11 @@ public class HandleAPI {
     }
     public HandleAPI(){
         int i,k;
-        System.out.println("Habla");
         for(k=0;k<5;k++){
             System.out.println(k+" ");
         }
-        
+        System.out.println("GOOOOOO!");
          System.out.println("Norman");
           System.out.println("Habla");
-           System.out.println("Habla");
     }
 }
